@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.wrap .pl_l iframe {
+  display: none !important;
+}
+
+.wrap .pl_l + a {
+  display: none !important;
+}
+
+.wrap .pl_r {
+  float: none !important;
+}
+
+#ad4 {
+  display: none !important;
+}
