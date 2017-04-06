@@ -2,5 +2,7 @@
 
 set -eux
 
-pushd B9DMAdBlocker
+rm B9DMAdBlocker.zip
+
+cd B9DMAdBlocker
 zip -r ../B9DMAdBlocker.zip *
