@@ -26,7 +26,8 @@ chrome.webRequest.onBeforeSendHeaders.addListener(
       '*://onclickads.net/*',
       '*://www.toponclick.com/*',
       '*://www.adnetworkperformance.com/*',
-      '*://b.scorecardresearch.com/*'
+      '*://b.scorecardresearch.com/*',
+      '*://js.genieessp.com/*',
     ]
   },
   [
